@@ -25,3 +25,7 @@ With the help of:
 * Colt
 * James
 * Julia
+
+## About
+
+I worked on this repository to gain skills in GitHub.
